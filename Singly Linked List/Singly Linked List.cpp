@@ -185,6 +185,7 @@ T& List<T>::operator[](const int index)
 
 int main()
 {
+	cout << "Test Git" << endl;
 	return 0;
 }
 
